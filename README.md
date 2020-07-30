@@ -1,4 +1,6 @@
-<include a CircleCI status badge, here>
+# PROJECT: Operationalize a Machine Learning Microservice API
+
+[![circleCI](https://circleci.com/gh/mohamedsgap/ml-microservice-api.svg?style=svg)](https://app.circleci.com/gh/mohamedsgap/ml-microservice-api)
 
 ## Project Overview
 
